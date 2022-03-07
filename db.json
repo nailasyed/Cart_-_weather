@@ -1,0 +1,160 @@
+{
+  "pizza": [
+    {
+      "id": 1,
+      "img":"/Assets/161_1602656980_VeggieSupememin.jpg",
+      "title": "VeggieSupememin",
+      "desc": "corn pepper",
+      "price": "120",
+      "variant": {
+        "regular":"120",
+        "medium": "240",
+        "large": "420"
+      }
+    },
+    {
+      "id": 2,
+      "img":"/Assets/1214_1602656795_Chickenitalianomin.jpg",
+      "title": "Chickenitalianomin",
+      "desc": "corn pepper",
+      "price": "120",
+      "variant": {
+        "regular":"120",
+        "medium": "240",
+        "large": "420"
+      }
+    },
+    {
+      "id": 3,
+      "img":"/Assets/1334_1602656861_LebaneseChickenmin.jpg",
+      "title": "LebaneseChickenmin",
+      "desc": "corn pepper",
+      "price": "120",
+      "variant": {
+        "regular":"120",
+        "medium": "240",
+        "large": "420"
+      }
+    },
+    {
+      "id": 4,
+      "img":"/Assets/1337_1602656817_ChickenSausagentikkamin.jpg",
+      "title": "ChickenSausagentikkamin",
+      "desc": "corn pepper",
+      "price": "120",
+      "variant": {
+        "regular":"120",
+        "medium": "240",
+        "large": "420"
+      }
+    },
+    {
+      "id": 5,
+      "img":"/Assets/1384_1602656860_Farmerspickmin.jpg",
+      "title": "Farmerspickmin",
+      "desc": "corn pepper",
+      "price": "120",
+      "variant": {
+        "regular":"120",
+        "medium": "240",
+        "large": "420"
+      }
+    },
+    {
+      "id": 6,
+      "img":"/Assets/1556_1602656947_SpicedPaneermin.jpg",
+      "title": "SpicedPaneermin",
+      "desc": "corn pepper",
+      "price": "120",
+      "variant": {
+        "regular":"120",
+        "medium": "240",
+        "large": "420"
+      }
+    },
+    {
+      "id": 7,
+      "img":"/Assets/1843_1602658363_Doublecheesemin.jpg",
+      "title": "Doublecheesemin",
+      "desc": "corn pepper",
+      "price": "120",
+      "variant": {
+        "regular":"120",
+        "medium": "240",
+        "large": "420"
+      }
+    },
+    {
+      "id": 8,
+      "img":"/Assets/2204_1602668149_CountryFeastmin.jpg",
+      "title": "CountryFeastmin",
+      "desc": "corn pepper",
+      "price": "120",
+      "variant": {
+        "regular":"120",
+        "medium": "240",
+        "large": "420"
+      }
+    },
+    {
+      "id": 9,
+      "img":"/Assets/2299_1602656883_Margheritamin.jpg",
+      "title": "Margheritamin",
+      "desc": "corn pepper",
+      "price": "120",
+      "variant": {
+        "regular":"120",
+        "medium": "240",
+        "large": "420"
+      }
+    },
+    {
+      "id": 10,
+      "img":"/Assets/2537_1602658262_Classictomatomin.jpg",
+      "title": "Classictomatomin",
+      "desc": "corn pepper",
+      "price": "120",
+      "variant": {
+        "regular":"120",
+        "medium": "240",
+        "large": "420"
+      }
+    },
+    {
+      "id": 11,
+      "img":"/Assets/3400_1602656816_ChickenSausagemin.jpg",
+      "title": "ChickenSausagemin",
+      "desc": "corn pepper",
+      "price": "120",
+      "variant": {
+        "regular":"120",
+        "medium": "240",
+        "large": "420"
+      }
+    },
+    {
+      "id": 12,
+      "img":"/Assets/3693_1602656925_Spicedchickenmeatballmin.jpg",
+      "title": "Spicedchickenmeatballmin",
+      "desc": "corn pepper",
+      "price": "120",
+      "variant": {
+        "regular":"120",
+        "medium": "240",
+        "large": "420"
+      }
+    },
+    {
+      "id": 13,
+      "img":"/Assets/3705_1602656924_Soyamasalamin.jpg",
+      "title": "Soyamasalamin",
+      "desc": "corn pepper",
+      "price": "120",
+      "variant": {
+        "regular":"120",
+        "medium": "240",
+        "large": "420"
+      }
+    }
+  ]
+}
