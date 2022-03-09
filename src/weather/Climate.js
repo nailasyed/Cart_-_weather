@@ -5,7 +5,7 @@ import './style.css';
 
 const Climate = ()=>{
   const api ={
-  key: "7672df073f63b43754a9cba24a8eaa48",
+  key: "your api Key here",
   base: "https://api.openweathermap.org/data/2.5/"
 }
 	const [query, setQuery] = useState('');
